@@ -10,8 +10,6 @@
   
   ## Compare between MKS Eagle and Nano V3
   | ITEMS      |  MKS Eagle  | MKS Robin Nano V3 |
-  |-----------------------------------------------------------|
-  | The different |
   |------------|--------------------|-------------------------|
   | MCU | STM32F407VET6(168MHz) | STM32F407VGT6(168MHz) |
   | FLASH/RAM | 512KB FLASH/192KB RAM | 1024KB FLASH/192KB RAM |
@@ -20,22 +18,18 @@
   | DFU mode | Support(BOOT0) | No support |
   | Reserved IO | PD14,PD1,PD0 | No reserved |
   | Firmware name | mks_eagle.bin | Robin_nano_v3.bin |
-  |-----------------------------------------------------------|
-  | The same |
-  |-----------------------------|-----------------------------|
-  | USB Disk | Support |
-  | TF card | Support(SPI3) |
-  | WIFI connect | USART1+SPI2 |
-  | Virtural USB Device | Support |
-  | Motor interface | 5 axis 6 interface(Two Z axis share the same driver) |
-  | PWM FAN(s) | 2 channels |
-  | PWM TTL | Support |
-  | Independent serial port | Support(USART3) |
-  | Power TVS protect | Support |
-  | EEPROM | 4KB AT24C32DM on board |
-  | SPI Flash | 8M on board |
-  | LCD support | MKS TS35/MKS MINI12864 V3/MKS H43/LCD12864/LCD2004 |
-  |-----------------------------|-----------------------------|
+  | USB Disk | Support | Support |
+  | TF card | Support(SPI3) | Support(SPI3) |
+  | WIFI connect | USART1+SPI2 | USART1+SPI2 |
+  | Virtural USB Device | Support | Support |
+  | Motor interface | 5 axis 6 interface(Two Z axis share the same driver) | 5 axis 6 interface(Two Z axis share the same driver) |
+  | PWM FAN(s) | 2 channels | 2 channels |
+  | PWM TTL | Support | Support |
+  | Independent serial port | Support(USART3) | Support(USART3) |
+  | Power TVS protect | Support | Support |
+  | EEPROM | 4KB AT24C32DM on board | 4KB AT24C32DM on board |
+  | SPI Flash | 8M on board | 8M on board |
+  | LCD support | MKS TS35/MKS MINI12864 V3/MKS H43/LCD12864/LCD2004 | MKS TS35/MKS MINI12864 V3/MKS H43/LCD12864/LCD2004 |
   
   - Special function 
     - Support power spike processing, protection circuit
