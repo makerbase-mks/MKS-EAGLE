@@ -1,0 +1,1 @@
+dfu-util.exe -a 0 -s 0x0800C000:leave -D mks_eagle.bin -d 0483:df11

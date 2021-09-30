@@ -41,6 +41,10 @@
   ## Firmware
   - Support Marlin 2.0
   - Support Klipper
+  
+  ## How to update firmware or upload bootloader
+  - TF card update firmware: Copy mks_eagle.bin to tf card, insert to board, reset or repower on and update it
+  - Use USB by DFU mode, refer to DFU-Upload path readme
 
   
   
