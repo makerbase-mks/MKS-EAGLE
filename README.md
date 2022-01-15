@@ -46,6 +46,7 @@
   - TF card update firmware: Copy mks_eagle.bin to tf card, insert to board, reset or repower on and update it
   - Use USB by DFU mode, refer to DFU-Upload path readme
 
-  
+  ![mks_link](https://user-images.githubusercontent.com/12979070/149611805-9c77e01d-2d21-4e7e-b231-3cf36e1b99d4.png)
+
   
   
