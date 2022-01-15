@@ -45,6 +45,15 @@
   ## How to update firmware or upload bootloader
   - TF card update firmware: Copy mks_eagle.bin to tf card, insert to board, reset or repower on and update it
   - Use USB by DFU mode, refer to DFU-Upload path readme
+  
+## Note
+- Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
+- For more product dynamic information and tutorial materials, you can always follow MKS's Facebook/Twitter/Discord/Reddit/Youtube and Github. Thank you!
+- MKS Github: https://github.com/makerbase-mks  
+- MKS Facebook: https://www.facebook.com/Makerbase.mks/  
+- MKS Twitter: https://twitter.com/home?lang=en  
+- MKS Discord: https://discord.gg/4uar57NEyU
+- MKS Reddit: https://www.reddit.com/user/MAKERBASE-TEAM/ 
 
   ![mks_link](https://user-images.githubusercontent.com/12979070/149611805-9c77e01d-2d21-4e7e-b231-3cf36e1b99d4.png)
 
